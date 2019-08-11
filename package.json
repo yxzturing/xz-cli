@@ -22,7 +22,7 @@
     "url": "https://github.com/yxzturing/xz-cli/issues"
   },
   "homepage": "https://github.com/yxzturing/xz-cli#readme",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^2.20.0",
     "download-git-repo": "^2.0.0",
